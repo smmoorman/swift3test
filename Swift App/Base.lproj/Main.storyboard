@@ -26,26 +26,16 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aLv-Y9-5R4">
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aLv-Y9-5R4">
                                 <rect key="frame" x="154" y="81" width="67" height="30"/>
                                 <state key="normal" title="PUSH ME"/>
                                 <connections>
-                                    <action selector="theButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dTc-dF-xEw"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dKc-kO-N6s">
-                                <rect key="frame" x="136.5" y="131" width="102" height="30"/>
-                                <state key="normal" title="PUSH ME TOO"/>
-                                <connections>
-                                    <action selector="theButton2:" destination="BYZ-38-t0r" eventType="touchUpInside" id="G4J-Vn-7x2"/>
+                                    <action selector="theButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="f3e-mn-9Ro"/>
                                 </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="dKc-kO-N6s" firstAttribute="top" secondItem="aLv-Y9-5R4" secondAttribute="bottom" constant="20" id="Vbw-AN-TnD"/>
-                            <constraint firstItem="aLv-Y9-5R4" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Xpn-1h-wfv"/>
-                            <constraint firstItem="dKc-kO-N6s" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="dPc-wE-ZPC"/>
                             <constraint firstItem="fqB-OJ-tC8" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="20" id="jas-Km-Dgk"/>
                             <constraint firstItem="fqB-OJ-tC8" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="2.5" id="uAW-xD-8E2"/>
                             <constraint firstItem="aLv-Y9-5R4" firstAttribute="top" secondItem="fqB-OJ-tC8" secondAttribute="bottom" constant="20" id="vHJ-eu-T2k"/>
