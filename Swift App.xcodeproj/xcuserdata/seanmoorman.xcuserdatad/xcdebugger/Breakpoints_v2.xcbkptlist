@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift App/ViewController.swift"
+            timestampString = "520907912.597849"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_App.ViewController.__deallocating_deinit"
+                  moduleName = "Swift App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seanmoorman/Desktop/Swift%20App/Swift%20App/ViewController.swift"
+                  timestampString = "520907912.605986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_App.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.Bundle&gt;) -&gt; Swift_App.ViewController"
+                  moduleName = "Swift App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seanmoorman/Desktop/Swift%20App/Swift%20App/ViewController.swift"
+                  timestampString = "520907912.609005"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_App.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.Bundle&gt;) -&gt; Swift_App.ViewController"
+                  moduleName = "Swift App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seanmoorman/Desktop/Swift%20App/Swift%20App/ViewController.swift"
+                  timestampString = "520907912.611655"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_App.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Swift_App.ViewController&gt;"
+                  moduleName = "Swift App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seanmoorman/Desktop/Swift%20App/Swift%20App/ViewController.swift"
+                  timestampString = "520907912.61527"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_App.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Swift_App.ViewController&gt;"
+                  moduleName = "Swift App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seanmoorman/Desktop/Swift%20App/Swift%20App/ViewController.swift"
+                  timestampString = "520907912.626203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
